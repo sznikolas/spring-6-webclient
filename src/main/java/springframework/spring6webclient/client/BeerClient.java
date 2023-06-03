@@ -8,7 +8,7 @@ import springframework.spring6webclient.model.BeerDTO;
 
 import java.util.Map;
 
-public interface BeerClient {
+public interface BaerClient {
 
     Flux<String> listBeer();
 
